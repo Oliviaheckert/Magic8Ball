@@ -169,3 +169,20 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Session files
+8ball_session_*.json
+
+# Log files
+
+*.log
+magic8ball.log
+
+# Local development files
+.env
+.venv/
+
+# Exclude all *.json except config files
+
+*.json
+!config/*.json
