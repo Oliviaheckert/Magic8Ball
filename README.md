@@ -4,14 +4,14 @@ A modern command-line interface (CLI) version of the classic Magic 8 Ball fortun
 
 ## Features ✨
 
-- 🎨 Colorized terminal interface with animations
-- 📊 Answer statistics with percentage breakdowns
+- Colorized terminal interface with animations
+- Answer statistics with percentage breakdowns
 
-- 🕰️ Timestamped session history
-- 💾 Automatic JSON session saving
+- Timestamped session history
+- Automatic JSON session saving
 
-- ⌨️ Interactive command system
-- ⚖️ Weighted probability responses
+- Interactive command system
+- Weighted probability responses
 
 ## Installation ⚡
 ```bash
