@@ -1,0 +1,12 @@
+{
+    "weights": {
+        "positive": 0.4,
+        "neutral": 0.3,
+        "negative": 0.3
+    },
+    "animation": {
+        "symbols": ["●", "○", "◎", "◇", "☆"],
+        "delay": 0.3,
+        "cycles": 5
+    }
+}
