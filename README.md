@@ -15,6 +15,6 @@ A professional-grade Python implementation of the classic fortune-telling toy wi
 
 ## Installation ⚡
 ```bash
-git clone https://github.com/Oliviaheckert/magic-8-ball.git
+git clone https://github.com/Oliviaheckert/Magic8Ball.git
 cd magic-8-ball
 pip install -r requirements.txt
